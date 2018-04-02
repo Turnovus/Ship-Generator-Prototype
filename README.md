@@ -1,5 +1,5 @@
 # Ship-Generator-Prototype
-A simple prototype the procedurally generates spaceship sprites.
+A simple prototype that procedurally generates spaceship sprites.
 
 You must have DirectPlay enabled to run the executable.
 The executable does not require the .bb files to run.
